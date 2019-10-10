@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooriyudie.marinacidre.com/sitemap.xml
